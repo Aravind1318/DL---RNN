@@ -99,14 +99,15 @@ train_model(model, train_loader, criterion, optimizer)
 Include your plot here
 
 ## True Stock Price, Predicted Stock Price vs time
+<img width="857" height="581" alt="image" src="https://github.com/user-attachments/assets/5a737204-7090-4a0f-b926-81e76bdaa134" />
 
-<img width="662" height="444" alt="image" src="https://github.com/user-attachments/assets/20a59a8f-5502-4880-997c-7ba416f03dcc" />
 
 Include your plot here
 
 ### Predictions
 Include the predictions on test data
-<img width="235" height="30" alt="image" src="https://github.com/user-attachments/assets/595625c5-8c3f-4ef4-a159-74e3e594bca6" />
+<img width="442" height="110" alt="image" src="https://github.com/user-attachments/assets/13a57d4c-44ac-4d04-941e-64d7c4e99378" />
+
 
 
 ## RESULT
