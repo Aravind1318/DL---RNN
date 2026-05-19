@@ -92,7 +92,8 @@ train_model(model, train_loader, criterion, optimizer)
 
 ### OUTPUT
 ## Training Loss Over Epochs Plot
-<img width="428" height="347" alt="image" src="https://github.com/user-attachments/assets/04aa2cf6-33d9-49aa-b205-02c84c29a73c" />
+<img width="583" height="513" alt="image" src="https://github.com/user-attachments/assets/4d6e4914-9974-4f8a-aa06-be6101f8b362" />
+
 
 
 Include your plot here
